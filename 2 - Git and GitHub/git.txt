@@ -25,4 +25,5 @@ git branch -d "branch name" - Delete branch
 
 git remote add origin https://github.com/rykdss/FST11.git - Add local to remote GitHub Repository
 git branch -M main - Set branch to Main
-git push -u origin main - Upload local repository to remote GitHub repository
+git push -u origin main - Upload local repository to remote GitHub repository (First time)
+git push - Push local repository to remote repostory once establish connection
