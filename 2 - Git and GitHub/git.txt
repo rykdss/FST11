@@ -20,3 +20,4 @@ git branch "branch name" - Create a branch
 git branch -a - List all branches
 git switch "branch name" - Switch to a different branch (Note: may not work for older versions)
 git checkout "branch name" - Switch to a different branch
+git branch -d "branch name" - Delete branch
