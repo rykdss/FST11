@@ -16,3 +16,8 @@ R - Renamed
 
 git log - Show commit history
 git log --oneline - Simplified version of commit history
+
+git branch <branch name> - Create new branch
+git branch -a - List all Branches 
+git switch <branch name> - Switch to different branch (May not work with newer version)
+git checkout <branch name> - Switch to different branch
