@@ -1,7 +1,18 @@
-git init - Initialize Repository 
-git status - Check folder status
 git config user.name <username> - Add username of GitHub
 git config user.email <email> - Add email of GitHub
 git config user.name/user.email - Check current Git username and email
 
-git commit -m "cli commands in cli.txt"
+git init - Initialize Repository 
+git status - Check folder status
+git add . - Add all untracked files to staging area
+git commit -m "<message>" - Commit changes to Repository
+
+Legends
+U - Untracked
+A - Added
+M - Modified
+D - Deleted
+R - Renamed
+
+git log - Show commit history
+git log --oneline - Simplified version of commit history
